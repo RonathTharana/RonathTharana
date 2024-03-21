@@ -1,0 +1,4 @@
+- Hi! My name is Ronath Tharana 👋
+- 🌍 I am a Software Developer based in Colombo, Sri Lanka.
+- 🌱 I’m currently learning at the Informatics Institute of Technology.
+- 📫 Reach me on LinkedIn
